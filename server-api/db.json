@@ -1,0 +1,46 @@
+{
+  "contacts": [
+    {
+      "id": "bb63e7c0-7c95-4b5c-a224-8514b7cf9415",
+      "user": {
+        "name": "kishore gamidi",
+        "email": "ngamidi@ufl.edu"
+      }
+    },
+    {
+      "id": "36bb8954-10e4-495e-993c-cd0a3a5b8eb7",
+      "user": {
+        "name": "kishore gamidi",
+        "email": "gkishore399@gmail.com"
+      }
+    },
+    {
+      "id": "d681f6d7-5697-4911-a96b-d625bdf7d870",
+      "user": {
+        "name": "Naga venkata sivaramakishore gamidi",
+        "email": "ngamidi@ufl.edu"
+      }
+    },
+    {
+      "id": "0fdec3f6-c033-4393-96c2-4dff9c3a5e64",
+      "user": {
+        "name": "kishore gamidi",
+        "email": "ngamidi@ufl.edu"
+      }
+    },
+    {
+      "id": "191541af-e687-4de8-ae8e-cd3076262f12",
+      "user": {
+        "name": "kishore gamidi",
+        "email": "ngamidi@ufl.edu"
+      }
+    },
+    {
+      "id": "15bb1ab1-df0a-4a47-bea2-07802b05065d",
+      "user": {
+        "name": "dad",
+        "email": "ngamidi@ufl.edu"
+      }
+    }
+  ]
+}
